@@ -1,1 +1,1 @@
-https://VitaliiBR.github.io/rsschool-cv/cv
+https://VitaliiBR.github.io/rsschool-cv/
