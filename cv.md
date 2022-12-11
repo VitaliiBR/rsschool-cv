@@ -22,7 +22,7 @@ function pow(x, n) {
     result *= x;
   }
 
-  return result;
+changed the input  return result;
 }
 ```
 ***
